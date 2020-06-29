@@ -8,3 +8,6 @@ Wärend seiner Reise trifft er alle mögliche Tiere und auch Fabelwesen welche I
 * Klecks auf dem Bauch
 * für einen Hamster sehr neugierig
 * immer auf ein Abenteuer aus
+
+Hamster Klecksi sagt oft:
+> Hallo ich bin Klecksi, und wer bist du?
