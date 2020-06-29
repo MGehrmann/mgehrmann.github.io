@@ -11,3 +11,5 @@ Wärend seiner Reise trifft er alle mögliche Tiere und auch Fabelwesen welche I
 
 Hamster Klecksi sagt oft:
 > Hallo ich bin Klecksi, und wer bist du?
+
+<img src="https://www.hamster-klecksi.de/images/klecksi.png"/>
